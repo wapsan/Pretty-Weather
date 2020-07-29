@@ -1,0 +1,6 @@
+module Pods_PrettyWeather {
+  umbrella header "Pods-PrettyWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
